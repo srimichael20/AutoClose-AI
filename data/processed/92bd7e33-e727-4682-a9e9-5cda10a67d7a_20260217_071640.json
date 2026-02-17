@@ -1,0 +1,17 @@
+{
+  "document_id": "92bd7e33-e727-4682-a9e9-5cda10a67d7a",
+  "processed_at": "2026-02-17T07:16:40.672983",
+  "metadata": {
+    "job_id": "75cfbe91-46de-466b-9a1a-78dc971343b4"
+  },
+  "classification": {
+    "document_id": "92bd7e33-e727-4682-a9e9-5cda10a67d7a",
+    "category": "expense",
+    "subcategory": "shipping_and_delivery",
+    "amount": 1165.0,
+    "description": "Payment for Goods Transport (GT) Charges from Flipkart India Private Limited for the delivery of an Acer Aspire laptop.",
+    "confidence": 1.0,
+    "reasoning": "The invoice is issued by Flipkart India Private Limited to Hari for 'GT Charges' (Goods Transport Charges) with a 'Nature Of Supply: Service'. This indicates that Hari is paying for the transportation service of goods (a laptop), which is an operational expense related to shipping and delivery.",
+    "embeddings_added": true
+  }
+}

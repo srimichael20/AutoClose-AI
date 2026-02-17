@@ -1,0 +1,17 @@
+{
+  "document_id": "d2795067-6e98-4329-ae9f-1ef221defaf3",
+  "processed_at": "2026-02-17T06:57:35.463872",
+  "metadata": {
+    "job_id": "c5d8ab3a-f117-44ba-8ef2-e0ae23d51c3b"
+  },
+  "classification": {
+    "document_id": "d2795067-6e98-4329-ae9f-1ef221defaf3",
+    "category": "expense",
+    "subcategory": "Cloud Services",
+    "amount": 48500.0,
+    "description": "Cloud Infrastructure Services",
+    "confidence": 1.0,
+    "reasoning": "This is an invoice for 'Cloud Infrastructure Services' provided by a vendor, indicating an operational cost for the SMB. The amount reflects the base cost of the service.",
+    "embeddings_added": true
+  }
+}

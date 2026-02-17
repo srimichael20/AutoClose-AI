@@ -1,0 +1,17 @@
+{
+  "document_id": "test-1",
+  "processed_at": "2026-02-17T05:52:36.728859",
+  "metadata": {
+    "job_id": "bbf7eead-d2a7-4863-b980-4ce0aec15d2b"
+  },
+  "classification": {
+    "document_id": "test-1",
+    "category": "unknown",
+    "subcategory": null,
+    "amount": null,
+    "description": "Office supplies  from Staples",
+    "confidence": 0.0,
+    "reasoning": "parse err",
+    "embeddings_added": true
+  }
+}

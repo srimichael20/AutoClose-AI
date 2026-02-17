@@ -1,0 +1,17 @@
+{
+  "document_id": "cf56270e-4cf7-4f77-9ba3-b89712a2effe",
+  "processed_at": "2026-02-17T06:04:02.673731",
+  "metadata": {
+    "job_id": "c4e6d7b7-f833-40ac-8856-2950ed716fe2"
+  },
+  "classification": {
+    "document_id": "cf56270e-4cf7-4f77-9ba3-b89712a2effe",
+    "category": "unknown",
+    "subcategory": null,
+    "amount": null,
+    "description": "Close monthly books and process all pending invoices. Flag unpaid invoices and generate financial summary.",
+    "confidence": 0.0,
+    "reasoning": "parse err",
+    "embeddings_added": true
+  }
+}

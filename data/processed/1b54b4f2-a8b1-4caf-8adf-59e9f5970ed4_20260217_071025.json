@@ -1,0 +1,32 @@
+{
+  "document_id": "1b54b4f2-a8b1-4caf-8adf-59e9f5970ed4",
+  "processed_at": "2026-02-17T07:10:25.520096",
+  "metadata": {
+    "job_id": "64759916-5bfb-4256-b250-454776b9ea22"
+  },
+  "vision": {
+    "document_id": "1b54b4f2-a8b1-4caf-8adf-59e9f5970ed4",
+    "extracted_text": "Zupnon Ud_\nJal Decriotion Fmraz\nRaiencen\ncesnra\nMtn",
+    "structured_data": {
+      "amount": null,
+      "date": null,
+      "vendor": null,
+      "description": null,
+      "category_hint": null
+    },
+    "confidence_score": 0.02924838258725872,
+    "metadata": {
+      "requires_vision": true
+    }
+  },
+  "classification": {
+    "document_id": "1b54b4f2-a8b1-4caf-8adf-59e9f5970ed4",
+    "category": "expense",
+    "subcategory": "Maintenance & Repairs",
+    "amount": null,
+    "description": "Zupnon Ud_ Jal Decriotion Fmraz Raiencen cesnra Mtn",
+    "confidence": 0.1,
+    "reasoning": "The text is highly garbled. However, 'Mtn' is a common abbreviation for 'Maintenance', which is typically classified as an expense. Other parts of the text like 'Decriotion' (potentially 'Depreciation' or 'Description') or 'Raiencen' (potentially 'Revenue' or 'Reimbursement') are too ambiguous to confidently interpret. Given the extreme garbling, the classification is highly speculative.",
+    "embeddings_added": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "document_id": "407fc75e-27ca-43a0-a2a5-7b6d864c8659",
+  "processed_at": "2026-02-17T06:36:44.063940",
+  "metadata": {
+    "job_id": "e7cbfa77-6913-487d-9206-c3638751276b"
+  },
+  "classification": {
+    "document_id": "407fc75e-27ca-43a0-a2a5-7b6d864c8659",
+    "category": "expense",
+    "subcategory": "IT Services",
+    "amount": 48500.0,
+    "description": "Cloud Infrastructure Services from TechSupply Solutions Pvt Ltd (Invoice INV-2026-104)",
+    "confidence": 1.0,
+    "reasoning": "The document is an invoice received by the SMB for 'Cloud Infrastructure Services'. This represents a cost incurred by the business for operational IT services, classifying it as an expense. The amount reflects the pre-tax cost of the service.",
+    "embeddings_added": true
+  }
+}

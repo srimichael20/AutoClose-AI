@@ -1,0 +1,32 @@
+{
+  "document_id": "d8da590c-eb4d-404d-ac62-a30c34838211",
+  "processed_at": "2026-02-17T07:05:53.052666",
+  "metadata": {
+    "job_id": "e8fb960c-d22c-4382-b84c-54e734119e4e"
+  },
+  "vision": {
+    "document_id": "d8da590c-eb4d-404d-ac62-a30c34838211",
+    "extracted_text": "Invoice\nVendor: Alpha Electronics\nAmount: ?12,000\nStatus: Unpaid\nDate: 10 Feb 2026",
+    "structured_data": {
+      "amount": 12000,
+      "date": "2026-02-10",
+      "vendor": "Alpha Electronics",
+      "description": null,
+      "category_hint": null
+    },
+    "confidence_score": 0.8532618600077992,
+    "metadata": {
+      "requires_vision": true
+    }
+  },
+  "classification": {
+    "document_id": "d8da590c-eb4d-404d-ac62-a30c34838211",
+    "category": "expense",
+    "subcategory": "General Operating Expense",
+    "amount": 12000.0,
+    "description": "Invoice received from Alpha Electronics for 12,000, currently unpaid.",
+    "confidence": 0.9,
+    "reasoning": "The document is an invoice received by the SMB from a vendor, indicating a cost incurred for goods or services. This constitutes an expense for the business. The 'Unpaid' status also signifies a liability (Accounts Payable) but the underlying transaction is an expense.",
+    "embeddings_added": true
+  }
+}

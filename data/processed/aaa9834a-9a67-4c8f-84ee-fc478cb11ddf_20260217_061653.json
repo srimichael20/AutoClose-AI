@@ -1,0 +1,17 @@
+{
+  "document_id": "aaa9834a-9a67-4c8f-84ee-fc478cb11ddf",
+  "processed_at": "2026-02-17T06:16:53.536349",
+  "metadata": {
+    "job_id": "27e0fe4d-8f23-4d88-a654-0b005e8ea2e6"
+  },
+  "classification": {
+    "document_id": "aaa9834a-9a67-4c8f-84ee-fc478cb11ddf",
+    "category": "unknown",
+    "subcategory": null,
+    "amount": null,
+    "description": "INVOICE\n\nInvoice Number: INV-2026-104\nVendor Name: TechSupply Solutions Pvt Ltd\nInvoice Date: 12 February 2026\nDue Date: 20 February 2026\n\nItem Descri",
+    "confidence": 0.0,
+    "reasoning": "parse err",
+    "embeddings_added": true
+  }
+}

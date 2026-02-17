@@ -16,7 +16,6 @@ from utils.schemas import (
 from vector_db import ChromaStore
 
 
-# Lightweight: if Vision gave category_hint, use short confirm prompt
 CLASSIFY_FULL = """Classify SMB transaction. JSON: {"category":"revenue|expense|asset|liability|equity","subcategory":str,"amount":float|null,"description":str,"confidence":0-1,"reasoning":str}
 Content:
 """

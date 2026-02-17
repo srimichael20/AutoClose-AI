@@ -12,6 +12,9 @@ from agents.workflow_runner import run_workflow_sync
 from utils.file_storage import FileStorage
 from utils.schemas import DocumentType
 
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+WEBHOOK_URL = st.secrets["NOTIFICATION_WEBHOOK_URL"]
+
 # Page config - must be first Streamlit command
 st.set_page_config(
     page_title="AutoClose AI | Accounting Agent",
